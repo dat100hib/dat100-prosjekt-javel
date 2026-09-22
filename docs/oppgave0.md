@@ -6,8 +6,8 @@ Dette gjøres på samme måte som dere har gjort tidligere for startkode demonst
 
 Men nå skal dere gjøre stegene for denne oppbevaringsplassen, dvs. oppbevaringsplassen for prosjektet.
 
-Start-koden inneholder en pakke for hver av oppgavene 1-5. Der dere skal legge til kode er merkert med en **TODO** kommentar.
+Start-koden finnes dere under `src/main/java` og inneholder en pakke for hver av oppgavene 1-5. Der dere skal legge til kode er markert med en **TODO** kommentar.
 
 I motsetning til innlevering 2 kommer ikke start-koden med enhetstester. Dere skal selv underveis skrive kode som tester de metodene som dere implementerer.
 
-Når koden pushes opp til Github vil der bli kjørt et workflow som kompilerer koden og som kjører den koden som dere har skrevet inn i main-metodene for de ulike oppgavene.
+Når koden pushes opp til GitHub vil der bli kjørt et workflow som kompilerer koden og som kjører den koden som dere har skrevet inn i main-metodene for de ulike oppgavene.

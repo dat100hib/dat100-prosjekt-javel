@@ -113,7 +113,7 @@ Implementer metoden:
 public static double computePowerSupport(double[] usage, double[] prices)
 ```
 
-som utfra forbruk og strømpriser for en enkelt dag beregner strømstøtten for kunden på denne dagen.
+som utifra forbruk og strømpriser for en enkelt dag beregner strømstøtten for kunden på denne dagen.
 
 ### g) Norgespris
 

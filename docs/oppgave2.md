@@ -48,13 +48,13 @@ som beregner og returnerer totalt strømforbruk for en måned.
 
 ### d) Forbruksgrense
 
-For Norgespris er der en grense for månedlig forbruk for hytter og primærbolig på henholdsvis 1000 kWh og 5000 kWh. Implementer metoden:
+For Norgespris er der en øvre grense for støtte til månedlig forbruk for hytter og primærbolig på henholdsvis 1000 kWh og 5000 kWh. Implementer metoden:
 
 ```java
 public static boolean exceedThreshold(double[][] powerusage, double threshold)
 ```
 
-som finner ut om det månedlige forbruk (`powerusage`) er høyere enn en gitt grense (`threshold). Bruk en while-løkke slik metoden kan returnere resultat såsnart det finnes ut at forbruk er over grensen.
+som finner ut om det månedlige forbruk (`powerusage`) er høyere enn en gitt grense (`threshold`). Bruk en while-løkke slik metoden kan returnere resultat såsnart det finnes ut at forbruk er over grensen.
 
 ###  e) Spotpris for måneden
 
@@ -62,7 +62,7 @@ som finner ut om det månedlige forbruk (`powerusage`) er høyere enn en gitt gr
 public static double computeSpotPrice(double[][] usage, double[][] prices)
 ```
 
-som beregner den strømpris for en måned basert på forbruk (`usage`) og priser (`prices`) for kunder som har spotprisavtale (dvs. pris uten strømstøtte).
+som beregner strømpris for en måned basert på forbruk (`usage`) og priser (`prices`) for kunder som har spotprisavtale (dvs. pris uten strømstøtte).
 
 
 ### f) Strømstøtte for måneden

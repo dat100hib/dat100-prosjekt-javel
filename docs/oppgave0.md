@@ -4,6 +4,8 @@ Første steg for å komme igang med programmeringen er å laste ned et IntelliJ/
 
 Dette gjøres på samme måte som dere har gjort tidligere for startkode demonstrasjonsprosjektet: https://github.com/dat100hib/startcode-demo og for Java innlevering 2: https://github.com/dat100hib/dat100-javainnlevering2
 
+Enkleste måten å importere prosjektet inn i IntelliJ på er å buke `File -> Open` og navigere til mappen som inneholder startkoden for prosjektet.
+
 Men nå skal dere gjøre stegene for denne oppbevaringsplassen, dvs. oppbevaringsplassen for prosjektet.
 
 Start-koden finnes dere under `src/main/java` og inneholder en pakke for hver av oppgavene 1-5. Der dere skal legge til kode er markert med en **TODO** kommentar.

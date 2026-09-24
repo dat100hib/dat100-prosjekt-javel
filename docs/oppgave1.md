@@ -57,7 +57,7 @@ som bruker en for-løkke til å skrive ut strømpriser utfra tabellen `prices` g
 For å få skrevet flyttall ut med 2 desimaler kan for eksempel følgende setning brukes: 
 
 ```java
-System.out.printf("%.2f kWh ", verdi/variabel som skal skrives ut);
+System.out.printf("%.2f NOK ", verdi/variabel som skal skrives ut);
 ```
 
 ### b) Skrive ut strømforbruk

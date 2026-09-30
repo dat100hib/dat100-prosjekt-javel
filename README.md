@@ -8,7 +8,7 @@ Informasjon om de ulike strømstøtteordninger og hva som inngår i beregning av
 - https://www.fjordkraft.no/strom/kundeservice/sporsmal-og-svar/hva-inngar-i-nettleien/
 - https://www.hvakosterstrommen.no/ 
 
-Denne oppbevaringsplassen inneholder start-kode i form av et IntelliJ/Maven-prosjekt som skal danne utgangspunkt for ulike Java programmer. I prosjektet skal dere jobbe i grupper med opptil 3 personer med å implementere de delene som mangler for at programmene blir komplett. 
+Denne oppbevaringsplassen inneholder start-kode i form av et IntelliJ/Maven-prosjekt som skal danne utgangspunkt for ulike Java programmer. I prosjektet skal dere jobbe i grupper med opptil 4 personer med å implementere de delene som mangler for at programmene blir komplett. 
 
 Dere vil **ikke** få utlevert enhetstester (unit-tests) for automatisk å teste koden som dere implementerer. Istedet må dere selv skrive noen mindre Java-programmer som bruker den koden som dere skriver. Det er **viktig** å teste underveis og start-koden inneholder noe eksempel data for strømforbruk og strømpriser som kan brukes som testdata.
 
@@ -41,7 +41,7 @@ Informasjon om hvordan gruppemøtene organiseres finnes på Canvas.
 - [**Oppgave 2:** Månedlig strømforbruk og pris](docs/oppgave2.md) - 2-dimensjonale tabeller
 - [**Oppgave 3:** Kunde](docs/oppgave3.md) - Klasser og objekter
 - [**Oppgave 4:** Kunder](docs/oppgave4.md) - Referansetabeller
-- [**Oppgave 5:** Fakturaer](docs/oppgave5.md) - Komplekse klasse og objektstrukturer
+- [**Oppgave 5:** Fakturaer](docs/oppgave5.md) - Komplekse klasser og objektstrukturer
 
 ## Valgfri utfordring
 

@@ -134,7 +134,7 @@ Implementer metoden:
 public static double findPeakUsage(double[] usage)
 ```
 
-som baset på time for time forbruket (`usage`) beregner og returnerer det største strømforbruket som kunden har hatt på en time i løpet av dagen.
+som basert på time for time forbruket (`usage`) beregner og returnerer det største strømforbruket som kunden har hatt på en time i løpet av dagen.
 
 ### i) Gjennomsnitt strømforbruk
 

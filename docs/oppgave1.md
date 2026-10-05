@@ -4,7 +4,7 @@ Start-koden for denne oppgaven finnes i pakken `no.hvl.dat100.javel.oppgave1` og
 
 For en strømkunde registeres strømforbruk (målt i kWh) typisk hver time i døgnet og tilsvarende vil vi ha en spot-pris i NOK per kWh for hver time i døgnet.
 
-Dette betyr at vi for eksempel kan representere strømprisen som en tabell med heltall - et tall for hver time:
+Dette betyr at vi for eksempel kan representere strømprisen som en tabell med flyttall - et tall for hver time:
 
 ```java
 public static double[] powerprices_day = {
@@ -113,7 +113,7 @@ Implementer metoden:
 public static double computePowerSupport(double[] usage, double[] prices)
 ```
 
-som utifra forbruk og strømpriser for en enkelt dag beregner strømstøtten for kunden på denne dagen.
+som basert på forbruk og strømpriser for en enkelt dag beregner strømstøtten for kunden på denne dagen.
 
 ### g) Norgespris
 
@@ -134,7 +134,7 @@ Implementer metoden:
 public static double findPeakUsage(double[] usage)
 ```
 
-som utfra time for time forbruket (`usage`) beregner og returnerer det største strømforbruket som kunden har hatt på en time i løpet av dagen.
+som baset på time for time forbruket (`usage`) beregner og returnerer det største strømforbruket som kunden har hatt på en time i løpet av dagen.
 
 ### i) Gjennomsnitt strømforbruk
 
